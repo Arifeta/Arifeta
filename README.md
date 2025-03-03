@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arifeta Mulugeta</h1>
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML, CSS, javascript**
+- 💬 Ask me about **
+- HTML,
+- CSS,
+- javascript,
+- Node.js,
+- Express.js,
+- mongoDB**
 
 - 📫 How to reach me **arifetamulugeta@gmailcom**
 
