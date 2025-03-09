@@ -10,6 +10,7 @@
 - Node.js,
 - Express.js,
 - mongoDB**
+- react.js
 
 - 📫 How to reach me **arifetamulugeta@gmailcom**
 
