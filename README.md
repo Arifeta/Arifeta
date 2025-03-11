@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arifeta Mulugeta</h1>
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python & Django**
 
 - 💬 Ask me about **
 - HTML,
@@ -10,7 +10,6 @@
 - Node.js,
 - Express.js,
 - mongoDB**
-- react.js
 
 - 📫 How to reach me **arifetamulugeta@gmailcom**
 
