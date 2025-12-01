@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arifeta Mulugeta</h1>
+<h1 align="center">Hi 👋, I'm Arifata Mulugeta</h1>
 <h3 align="center">A passionate backend developer from Ethiopia</h3>
 
 - 🌱 I’m currently learning **Python & Django**
